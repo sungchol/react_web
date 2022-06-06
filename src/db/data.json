@@ -1,0 +1,146 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    },
+    {
+      "day": 7,
+      "id": 7
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 2,
+      "eng": "car",
+      "kor": "자동차",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "day": 3,
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false
+    },
+    {
+      "id": 9,
+      "day": 2,
+      "eng": "mouse",
+      "kor": "쥐",
+      "isDone": false
+    },
+    {
+      "id": 10,
+      "day": 4,
+      "eng": "monkey",
+      "kor": "원숭이",
+      "isDone": false
+    },
+    {
+      "id": 11,
+      "day": 4,
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false
+    },
+    {
+      "id": 12,
+      "day": 3,
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false
+    },
+    {
+      "day": "1",
+      "eng": "work",
+      "kor": "일",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "day": "1",
+      "eng": "farm",
+      "kor": "농장",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "day": "5",
+      "eng": "just",
+      "kor": "바로, 방금, 다만 단지",
+      "isDone": false,
+      "id": 15
+    },
+    {
+      "day": "5",
+      "eng": "capital",
+      "kor": "수도 자본 대문자",
+      "isDone": false,
+      "id": 16
+    },
+    {
+      "day": "6",
+      "eng": "kingdom",
+      "kor": "왕국",
+      "isDone": true,
+      "id": 17
+    },
+    {
+      "day": "6",
+      "eng": "cough",
+      "kor": "기침",
+      "isDone": true,
+      "id": 18
+    },
+    {
+      "day": "6",
+      "eng": "express",
+      "kor": "표현하다 나타내다",
+      "isDone": false,
+      "id": 19
+    },
+    {
+      "day": "7",
+      "eng": "tear",
+      "kor": "눈물, 찢다",
+      "isDone": true,
+      "id": 20
+    },
+    {
+      "day": "1",
+      "eng": "review",
+      "kor": "검토, 논평/ 검토하다",
+      "isDone": false,
+      "id": 21
+    }
+  ]
+}
